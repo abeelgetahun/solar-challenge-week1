@@ -5,13 +5,6 @@ Welcome to the **Solar Data Discovery Challenge!** This project is your gateway 
 
 ---
 
-## 🚀 Challenge Overview
-
-This week’s challenge is part of the evaluation process for the 12-week training program at 10 Academy. You’ll demonstrate your skills, adaptability, and analytical thinking by tackling a dataset that mirrors the challenges faced in the renewable energy sector.
-
-**No prior experience?** No problem! The challenge is designed to take you out of your comfort zone. While you may be exposed to new concepts and tasks, remember: growth happens outside your comfort zone. Everyone will gain invaluable project experience, and all contributions are celebrated.
-
----
 
 ## 🎯 Business Objective
 
